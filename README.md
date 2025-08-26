@@ -1,5 +1,5 @@
 **Objective:**
-This Project aims to analyse the data and get KPI insights from the banking data using Python (Pandas, NumPy, Matplotlib, Seaborn and Plotly.express).
+  This Project aims to analyse the data and get KPI insights from the banking data using Python (Pandas, NumPy, Matplotlib, Seaborn and Plotly.express).
 
 **About the Project:**
 - In order to monitor and assess the bank's lending activities and performance, create a comprehensive Bank Loan Analysis using Python. 

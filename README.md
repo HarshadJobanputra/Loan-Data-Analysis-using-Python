@@ -26,11 +26,11 @@ This Project aims to analyse the data and get KPI insights from the banking data
     -   Home Ownership Analysis (Tree/ Heat Map): For a hierarchical view of how home ownership impacts loan applications and disbursements.
  
   **Learning:**
-    **- Python libraries:**
-        - **Pandas**: Cleaning, reporting, and importing data
-        - **NumPy**: Numerical calculation
-        - **Matplotlib**: For Basic charts and graphs (2-dimensional)
-        - **Seaborn**: advanced plotting and charts (e.g., Heatmap, Treemap)
-        - **plotly.express**: interactive advanced chart (e.g., Scatter plot, area chart)
+    Python libraries:
+    - **Pandas**: Cleaning, reporting, and importing data
+    - **NumPy**: Numerical calculation
+    - **Matplotlib**: For Basic charts and graphs (2-dimensional)
+    - **Seaborn**: advanced plotting and charts (e.g., Heatmap, Treemap)
+    - **plotly.express**: interactive advanced chart (e.g., Scatter plot, area chart)
   
-        - Data cleaning, analysis and calculations to calculate KPIs.
+    - Data cleaning, analysis and calculations to calculate KPIs.
